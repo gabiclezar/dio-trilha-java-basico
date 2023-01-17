@@ -1,6 +1,10 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Surto");
+
+        //tipos primitivos
+        // estudar a classe de String que representa texto na aplicação
+
+        String meuNome = "GABI CLEZAR";
 
         int numero = 10;
 
